@@ -1,1 +1,2 @@
 why am i supposed to use vscode for this lmao
+testing nano config
